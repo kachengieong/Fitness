@@ -1,0 +1,37 @@
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.admDBs.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.admLogin.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_equDB.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_guestDB.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_memDB.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.guestReg.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.mainApp.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.memReg.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.csproj.GenerateResource.Cache
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\CSC330_CSharp_Midterm.exe.config
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.Properties.Resources.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\CSC330_CSharp_Midterm.exe
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\CSC330_CSharp_Midterm.pdb
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.csprojResolveAssemblyReference.cache
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.exe
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.pdb
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_empDB.resources
+C:\Users\ieong\OneDrive\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_ownDB.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\CSC330_CSharp_Midterm.exe.config
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\CSC330_CSharp_Midterm.exe
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\CSC330_CSharp_Midterm.pdb
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.csprojAssemblyReference.cache
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.admDBs.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.admLogin.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_empDB.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_equDB.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_guestDB.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_memDB.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.a_ownDB.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.guestReg.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.mainApp.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.memReg.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.Properties.Resources.resources
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.csproj.GenerateResource.cache
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.exe
+C:\Users\ieong\OneDrive\Desktop\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\CSC330_CSharp_Midterm.pdb

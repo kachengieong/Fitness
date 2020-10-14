@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7BC307D-3DDD-47D8-B650-BDF1F4583EB6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSC330_CSharp_Midterm</RootNamespace>
+    <AssemblyName>CSC330_CSharp_Midterm</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admDBs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admDBs.Designer.cs">
+      <DependentUpon>admDBs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admLogin.Designer.cs">
+      <DependentUpon>admLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="a_empDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="a_empDB.Designer.cs">
+      <DependentUpon>a_empDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="a_equDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="a_equDB.Designer.cs">
+      <DependentUpon>a_equDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="a_guestDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="a_guestDB.Designer.cs">
+      <DependentUpon>a_guestDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="a_memDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="a_memDB.Designer.cs">
+      <DependentUpon>a_memDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="a_ownDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="a_ownDB.Designer.cs">
+      <DependentUpon>a_ownDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs" />
+    <Compile Include="Guest.cs" />
+    <Compile Include="guestReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guestReg.Designer.cs">
+      <DependentUpon>guestReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gym.cs" />
+    <Compile Include="GymDataSet.Designer.cs" />
+    <Compile Include="mainApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainApp.Designer.cs">
+      <DependentUpon>mainApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs" />
+    <Compile Include="memReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="memReg.Designer.cs">
+      <DependentUpon>memReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="admDBs.resx">
+      <DependentUpon>admDBs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admLogin.resx">
+      <DependentUpon>admLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="a_empDB.resx">
+      <DependentUpon>a_empDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="a_equDB.resx">
+      <DependentUpon>a_equDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="a_guestDB.resx">
+      <DependentUpon>a_guestDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="a_memDB.resx">
+      <DependentUpon>a_memDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="a_ownDB.resx">
+      <DependentUpon>a_ownDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guestReg.resx">
+      <DependentUpon>guestReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainApp.resx">
+      <DependentUpon>mainApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="memReg.resx">
+      <DependentUpon>memReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
